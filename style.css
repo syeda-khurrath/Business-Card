@@ -1,0 +1,31 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.avatar {
+    width: 150px;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    width: 400px;
+    margin: auto;
+    text-align: left;
+    color: #ee5a58;
+    background-color: #ffddcd;
+    border-bottom: 8px solid #d8cefe;
+}
+.card-heading > h3{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+  
+   
+}
+.card-content{
+    padding:0px 20px;
+    line-height: 10px;
+    border-left: 2px solid #637385;
+}
